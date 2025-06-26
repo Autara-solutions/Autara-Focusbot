@@ -23,6 +23,7 @@ FocusBot is a lightweight AI assistant built with Streamlit and OpenAI that help
    cd autara-focusbot
 
 2. Create a virtual environment:
+<<<<<<< HEAD
 python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 

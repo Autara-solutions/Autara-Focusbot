@@ -1,10 +1,8 @@
 import streamlit as st
 from openai import OpenAI
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = st.secrets["OPENAI_API_KEY"]
 
 if not api_key:
     st.error("⚠️ OPENAI_API_KEY not found. Please check your .env file.")
