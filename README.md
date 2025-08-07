@@ -26,13 +26,13 @@ Here’s what FocusBot looks like in action:
 - Friendly encouragement and clarity
 - "Powered by OpenAI" + Buy Me a Coffee support link
 
-## 📦 Tech Stack
+## Tech Stack
 - Python 3.9+
 - [Streamlit](https://streamlit.io)
 - [OpenAI Python SDK](https://github.com/openai/openai-python)
 - `python-dotenv` (for local development)
 
-## 🚀 How to Run It Locally
+## How to Run It Locally
 1. Clone the repo:
    ```bash
    git clone https://github.com/autara-solutions/autara-focusbot.git
