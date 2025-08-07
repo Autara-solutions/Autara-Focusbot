@@ -1,12 +1,12 @@
-# ⚡ FocusBot by Autara
+# FocusBot by Autara
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-ff4b4b)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-FocusBot is a lightweight AI assistant built with Streamlit and OpenAI that helps you decide what to focus on next—based on your available time, energy level, and mental load. It's like having a gentle productivity coach in your pocket.
+FocusBot is a lightweight AI assistant built with Streamlit and OpenAI that helps you decide what to focus on next, based on your available time, energy level, and mental load. It's like having a gentle productivity coach in your pocket.
 
-## 📸 Screenshot
+## Screenshot
 
 Here’s what FocusBot looks like in action:
 
@@ -14,11 +14,11 @@ Here’s what FocusBot looks like in action:
 ![FocusBot Output](assets/Focusbot_After.png)
 
 
-## 🔗 Live Demo
-👉 [Try FocusBot on Streamlit Cloud](https://autara-focusbot-1.streamlit.app/)  
+## Live Demo
+[Try FocusBot on Streamlit Cloud](https://autara-focusbot-1.streamlit.app/)  
 *(No login required – 5 uses per day for anonymous visitors)*
 
-## ✨ Features
+## Features
 - Natural language input for tasks or thoughts
 - Adjustable energy and time filters
 - Prioritized suggestions using GPT-3.5
@@ -56,10 +56,10 @@ Here’s what FocusBot looks like in action:
    streamlit run app.py
    ```
 
-## ☕ Support
+## Support
 
 If you find FocusBot helpful, consider [buying me a coffee](https://www.buymeacoffee.com/DanDeppert) to support development.
 
-## 📄 License
+## License
 
-MIT — feel free to fork, improve, and build on it.
+MIT, feel free to fork, improve, and build on it.
